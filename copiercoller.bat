@@ -1,8 +1,6 @@
 @echo Off 
                 
-Title "backup off backup"
-
-cd C:\Users\cyprien\Desktop\test                                
+Title "backup off backup"                            
 
 if not Exist config.txt (
     echo >>config.txt FileId=
