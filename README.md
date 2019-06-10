@@ -8,7 +8,7 @@ auto uploder for satisfactory
 
 If you don't have use google drive before please continue the instruction below :
 
-1) download this file for drive https://docs.google.com/uc?id=0B3X9GlR6EmbncWNLOS1KYWhLVFE&export=download;
+1) download this file for drive https://docs.google.com/uc?id=0B3X9GlR6EmbncWNLOS1KYWhLVFE&export=download
 
 2) put gdrive-windows-x64.exe in C:\Windows;
 
